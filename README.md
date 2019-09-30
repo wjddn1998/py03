@@ -1,2 +1,3 @@
-# py03
-Just another Repository
+## py03
+### 신정우
+> 파이썬 활용
